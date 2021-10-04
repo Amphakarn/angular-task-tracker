@@ -17,18 +17,6 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": false
-    },
-    {
-      "text": "new test",
-      "day": "Oct 3rd, 2021",
-      "reminder": true,
-      "id": 4
-    },
-    {
-      "text": "new test 2",
-      "day": "new date",
-      "reminder": false,
-      "id": 5
     }
   ]
 }
